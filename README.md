@@ -45,7 +45,6 @@ To create an account, you must use an **email address ending in** `@etec.sp.gov.
 ![Admin Screen 2](screenshot_admin2.png)  
 *Incident Management Screen*
 
->>>>>>> 67d31d6 (screenshot commit)
 ## 🏆 Future Improvements  
 
 - 🔹 Implement a notification system  
@@ -54,6 +53,5 @@ To create an account, you must use an **email address ending in** `@etec.sp.gov.
 
 ---
 
-<<<<<<< HEAD
 If you have any questions or suggestions, feel free to contribute! 🚀  
 
